@@ -6,7 +6,7 @@ Here are steps of how to use SquirreL (http://squirrel-sql.sourceforge.net/) to 
 
 * Download this tool from the link provided, and instal using directions here http://squirrel-sql.sourceforge.net/#installation
 
-* Download the Teiid java driver from Teiid's download page http://teiid.jboss.org/downloads/
+* Download the Teiid java driver from Teiid's download page https://teiid.io/teiid_wildfly/downloads/
 
 * Start the SquirreL, and then add a driver for Teiid. See the screen shots here http://squirrel-sql.sourceforge.net/index.php?page=screenshots use following settings
 
